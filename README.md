@@ -1,4 +1,5 @@
-##Getting and Cleaning Data Course Project
+#Getting and Cleaning Data
+##Course Project
 
 1. You should create one R script called run_analysis.R that does the following. 
 2. Merges the training and the test sets to create one data set.
