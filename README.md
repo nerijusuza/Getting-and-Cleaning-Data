@@ -14,4 +14,5 @@
 2. Open it in RStudio and run it
 3. R script will create a new folder called Data if it doesn't exist already
 4. It will download archived data, unzip, read all necessary files
-5. It will give an output named tidydata.txt which will be saved in Data folder
+5. It will merge/combine data sets so the output file is understandable
+6. It will export file named tidydata.txt which will be saved in Data folder
