@@ -12,6 +12,6 @@
 
 1. Dowload run_analysis.R and save it to your working directory
 2. Open it in RStudio and run it
-3. R script will create a new folder called Data
+3. R script will create a new folder called Data if it doesn't exist already
 4. It will download archived data, unzip, read all necessary files
 5. It will give an output named tidydata.txt which will be saved in Data folder
